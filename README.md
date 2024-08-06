@@ -9,6 +9,6 @@ This is a simple Netflix clone created using HTML and CSS. It replicates the bas
 - 
 ## Usage
 
-1. Open the `index.html` file in your web browser.
+1. Open the `index.html` file in your web browser.( only for Desktop)
 2. Explore the Netflix clone and navigate through the pages.
 3. Customize the content and styling by modifying the HTML and CSS files as needed.
